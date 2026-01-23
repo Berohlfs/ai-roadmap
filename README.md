@@ -15,7 +15,7 @@ If you wish to execute the notebooks on your machine, you need to setup your Pyt
 
 ## Playground
 
-[Test your new skills!](./notebooks/src/playground/tests.ipynb)
+[Test your new skills!](./notebooks/src/playground)
 
 ## Chapter One: Python Basics
 
