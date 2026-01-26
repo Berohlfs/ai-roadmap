@@ -1,4 +1,6 @@
-# AI Roadmap
+![Banner](./public/images/ai-roadmap-banner.jpg)
+
+# ⭐ Intro to AI Roadmap
 
 Learning AI with notes and python notebooks!
 
@@ -10,20 +12,36 @@ If you wish to execute the notebooks on your machine, you need to setup your Pyt
     * `uv` works for both Unix-based systems and Windows. In my opinion, it is the go-to package manager for Python projects, and it can also manage your Python versions. 
     * Watch this [uv tutorial](https://www.youtube.com/watch?v=zgSQr0d5EVg&t=38s).
     * **I wouldn't recommend installing Python globally**.
-    * If you're on Mac or Linux, you could install `pyenv` as your Python version manager, and use `uv` only as a package manager. 
+    * If you're on Mac or Linux, you could install `pyenv` as your Python version manager, and use `uv` only as a package manager.
 2. Test your environment [here](./notebooks/src/welcome.ipynb).
 
 ## Playground
 
-[Test your new skills!](./notebooks/src/playground)
+Create `.ipynb` files for testing new knowledge with Python.
 
-## Chapter One: Python Basics
+[Click here!](./notebooks/src/playground)
 
-[View Chapter](./notebooks/src/chapter-1-python-basics/)
+# 📚 Content
 
----
+## Chapter 01 - Python Basics
 
-# Data
+| Topic | Notebook |
+|-------|----------|
+| Data Types | [1-data-types.ipynb](./notebooks/src/chapter-1-python-basics/1-data-types.ipynb) |
+| Control Flow | [2-control-flow.ipynb](./notebooks/src/chapter-1-python-basics/2-control-flow.ipynb) |
+| Functions | [3-functions.ipynb](./notebooks/src/chapter-1-python-basics/3-functions.ipynb) |
+| Lambda / Map / Filter | [4-lambda-map-filter.ipynb](./notebooks/src/chapter-1-python-basics/4-lambda-map-filter.ipynb) |
+| Comprehensions | [5-comprehensions.ipynb](./notebooks/src/chapter-1-python-basics/5-comprehensions.ipynb) |
 
-- We are using [Kaggle Datasets](https://www.kaggle.com/datasets) for examples!
-- .csv files stored in `./notebooks/data`
+## Data
+
+**Obs:** We are using [Kaggle Datasets](https://www.kaggle.com/datasets) for examples! All `.csv` files stored in `./notebooks/data`
+
+## Bonus Notes
+
+| Topic | File |
+|-------|------|
+| AI Coding | [ai-coding-bonus.md](./md/ai-coding-bonus.md) |
+| References | [references.md](./md/references.md) |
+| What is MCP? | [what-is-mcp.md](./md/what-is-mcp.md) |
+

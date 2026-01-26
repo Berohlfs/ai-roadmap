@@ -1,0 +1,45 @@
+---
+globs: *.ipynb
+alwaysApply: false
+---
+# Python Notebook Patterns
+
+## Structure
+
+1. **Title cell**: First cell is markdown with `# Topic Name`
+2. **Section headers**: Use `## Subtopic Name` as markdown cells before each code section
+3. **One concept per section**: Each `##` header followed by a code cell with related examples
+
+```markdown
+# Topic Name          <- First cell (markdown)
+
+## Subtopic           <- Section header (markdown)
+
+[code cell]           <- Examples for that subtopic
+```
+
+## Code Style
+
+- Use f-strings for output: `print(f"Result: {value}")`
+- Add comments explaining what each example demonstrates
+- Group related examples in the same cell
+- Show output with descriptive labels
+
+```python
+# ❌ BAD
+print(x)
+
+# ✅ GOOD
+print(f"Squared: {x}")
+```
+
+## Content Guidelines
+
+- Progress from simple to complex examples
+- Include comparisons (e.g., comprehension vs for loop)
+- Show common pitfalls with warnings
+- Avoid infinite loops or long-running operations
+
+## File Naming
+
+Use numbered prefix with kebab-case: `1-topic-name.ipynb`, `2-another-topic.ipynb`
