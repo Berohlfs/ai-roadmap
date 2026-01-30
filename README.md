@@ -25,7 +25,7 @@ Create `.ipynb` files for testing new knowledge with Python.
 
 ## Chapter 01 - Python Basics
 
-**Note**: This is not a tutorial chapter. This is simply a minimal Python syntax roadmap that will enable you use it in future chapters.
+**Note**: This is not a tutorial chapter. This is simply a minimal Python syntax roadmap that will enable you to use it in future chapters.
 
 - Exercises. [Click here and practice!](https://www.w3schools.com/python/python_exercises.asp)
 
