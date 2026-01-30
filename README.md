@@ -25,6 +25,8 @@ Create `.ipynb` files for testing new knowledge with Python.
 
 ## Chapter 01 - Python Basics
 
+[Practice Python here!](https://www.w3schools.com/python/python_exercises.asp)
+
 | Topic | Notebook |
 |-------|----------|
 | Data Types | [1-data-types.ipynb](./notebooks/src/chapter-1-python-basics/1-data-types.ipynb) |
