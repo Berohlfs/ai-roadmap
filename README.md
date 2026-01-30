@@ -25,7 +25,9 @@ Create `.ipynb` files for testing new knowledge with Python.
 
 ## Chapter 01 - Python Basics
 
-[Practice Python here!](https://www.w3schools.com/python/python_exercises.asp)
+**Note**: This is not a tutorial chapter. This is simply a minimal Python syntax roadmap that will enable you use it in future chapters.
+
+- Exercises. [Click here and practice!](https://www.w3schools.com/python/python_exercises.asp)
 
 | Topic | Notebook |
 |-------|----------|
@@ -41,7 +43,7 @@ Create `.ipynb` files for testing new knowledge with Python.
 
 ## Data
 
-**Obs:** We are using [Kaggle Datasets](https://www.kaggle.com/datasets) for examples! All `.csv` files stored in `./notebooks/data`
+**Note:** We are using [Kaggle Datasets](https://www.kaggle.com/datasets) for examples! All `.csv` files stored in `./notebooks/data`
 
 ## Bonus Notes
 
