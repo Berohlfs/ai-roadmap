@@ -34,6 +34,10 @@ Create `.ipynb` files for testing new knowledge with Python.
 | Functions | [3-functions.ipynb](./notebooks/src/chapter-1-python-basics/3-functions.ipynb) |
 | Lambda / Map / Filter | [4-lambda-map-filter.ipynb](./notebooks/src/chapter-1-python-basics/4-lambda-map-filter.ipynb) |
 | Comprehensions | [5-comprehensions.ipynb](./notebooks/src/chapter-1-python-basics/5-comprehensions.ipynb) |
+| Exceptions | [6-exceptions.ipynb](./notebooks/src/chapter-1-python-basics/6-exceptions.ipynb) |
+| Modules / Imports | [7-modules-imports.ipynb](./notebooks/src/chapter-1-python-basics/7-modules-imports.ipynb) |
+| Classes | [8-classes.ipynb](./notebooks/src/chapter-1-python-basics/8-classes.ipynb) |
+| HTTP Requests | [9-http-requests.ipynb](./notebooks/src/chapter-1-python-basics/9-http-requests.ipynb) |
 
 ## Data
 
